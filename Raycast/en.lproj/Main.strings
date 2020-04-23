@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "▶️"; ObjectID = "3O9-rt-xkb"; */
+"3O9-rt-xkb.normalTitle" = "▶️";
+
+/* Class = "UIButton"; normalTitle = "⏹"; ObjectID = "Ea7-U3-GJR"; */
+"Ea7-U3-GJR.normalTitle" = "⏹";
+
+/* Class = "UIButton"; normalTitle = "⏸"; ObjectID = "KYs-o5-3L2"; */
+"KYs-o5-3L2.normalTitle" = "⏸";
+
+/* Class = "UILabel"; text = "Rate"; ObjectID = "Kh0-aB-t1p"; */
+"Kh0-aB-t1p.text" = "Rate";
+
+/* Class = "UILabel"; text = "Pitch"; ObjectID = "Suz-Pf-k28"; */
+"Suz-Pf-k28.text" = "Pitch";
+
+/* Class = "UILabel"; text = "Gain"; ObjectID = "cNJ-0H-Vh8"; */
+"cNJ-0H-Vh8.text" = "Gain";
+
+/* Class = "UIButton"; normalTitle = "Record"; ObjectID = "xle-Hp-E10"; */
+"xle-Hp-E10.normalTitle" = "Record";
